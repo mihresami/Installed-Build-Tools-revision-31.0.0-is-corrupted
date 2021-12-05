@@ -12,6 +12,7 @@ defaultConfig{
 ....
 ...
 }
+Then click Snc and this solves the problem.
 for details see the screenshot.
 Thanks!
 
